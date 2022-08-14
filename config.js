@@ -4,19 +4,19 @@ let locale = 'id'
 //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri', true]  
+  ['6281807154833'],
+  ['6285896938397'],
+  ['6281807154833', 'IBNU OFFICIAL 🅥⁩', true]  
   
 ] 
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
-global.wm2 = [['Hoh']]
-global.ownerinsta = [['@b4c00t.dtz']]
-global.instalu = [['instagram.com/b4c00t.dtz']]
-global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
-global.mods = [] 
-global.prems = ['6289509960601'] 
+global.ownername = [['IBNU OFFICIAL 🅥⁩ ']]
+global.namabot = [['WHATSAAP-MD-BOT']]
+global.wm2 = [['IBNU 🅥⁩']]
+global.ownerinsta = [['@IBNU OFFICIAL 🅥⁩']]
+global.instalu = [['instagram.com/ibnu_ramadhani.1']]
+global.ytlu = [['https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj']]
+global.mods = ['6281807154833'] 
+global.prems = ['6281807154833'] 
 
 
 global.APIs = { // API Prefix
